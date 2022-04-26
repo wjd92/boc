@@ -5,7 +5,7 @@
 # Site
 title: BOC's warehouse
 subtitle: ''
-description: '弱鸡的反击'
+description: '弱者的反击'
 keywords:
 author: wjd
 language: zh-CN
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Claudia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +105,10 @@ deploy:
   type: git
   repo: git@github.com:wjd92/wjd92.github.io.git
   branch: master
+
+# Local Search搜索功能
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
