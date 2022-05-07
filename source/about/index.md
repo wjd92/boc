@@ -24,3 +24,7 @@ WeChat：AckermanAni
 Email：954029292@qq.com
 
 Github：[wjd92](https://github.com/wjd92)
+
+### 工作相关
+
+- [AIOps在美团的实践--故障发现篇(美团2020年度最受欢迎技术博客)](https://tech.meituan.com/2020/10/15/mt-aiops-horae.html)
