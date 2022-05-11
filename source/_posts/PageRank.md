@@ -25,7 +25,7 @@ PageRank, 网页排名，又称网页级别，佩奇排名等，是一种由搜�
 
 ### 计算方式
 
-假设由如下四个网页A、B、C、D，链接信息如下图所示:
+假设有如下四个网页A、B、C、D，链接信息如下图所示:
 
 <img src="https://images.bumpchicken.cn/img/20220508234438.png" width="50%" height="50%">
 
