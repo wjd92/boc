@@ -13,7 +13,7 @@ mathjax: true
 
 ---
 
-该论文是清华大学NetMan实验室2020年发表与IWQoS上的一篇关于微服务根因定位的论文。论文题目是《Localizing Failure Root Causes in a Microservice through Causality Inference》/ 通过根因推理对微服务进行根因定位。论文提出一种基于改进的PC算法和随机游走的根因定位算法。
+该论文是清华大学NetMan实验室2020年发表与IWQoS上的一篇关于微服务根因定位的论文。论文题目是《Localizing Failure Root Causes in a Microservice through Causality Inference》/ 通过根因推理对微服务进行根因定位。论文提出一种基于改进的PC算法和随机游走的根因定位算法
 
 <!--more-->
 
