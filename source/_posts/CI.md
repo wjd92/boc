@@ -15,6 +15,7 @@ mathjax: true
 <img src="https://images.bumpchicken.cn/img/CI.png">
 
 应用构建和发布流程说明：
+<!--more-->
 
 1. 用户向 Gitlab 提交代码，代码中必须包含 `Dockerfile`
 2. 将代码提交到远程仓库
